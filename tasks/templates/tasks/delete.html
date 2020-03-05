@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Deletar tarefa</title>
+</head>
+<body>
+
+    <p>Tem certeza que quer apagar "{{item}}"?</p>
+
+    <a href="{% url 'list' %}">Cancelar</a>
+
+    <form method="POST" action="">
+        {% csrf_token %}
+        <input type="submit" name="Confirmar">
+    </form>
+
+</body>
+</html>
