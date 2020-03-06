@@ -2,6 +2,12 @@ from django.shortcuts import render, redirect
 from django.http import HttpResponse
 from .models import *
 from.forms import *
+from rest_framework import status
+
+from .serializer import TaskDataSerializer
+
+from rest_framework.views import APIView
+from rest_framework.response import Response
 
 def index(request):
     tasks = Task.objects.all()
@@ -42,3 +48,13 @@ def deleteTask (request, pk):
 
     context = {'item':item}
     return render(request, 'tasks/delete.html', context)
+
+class TaskListView(APIView):
+    serializer_class = TaskDataSerializer
+
+    def get(self, request, format=None):
+        serializer = self.serializer_class(Task.objects.all(), many=True)
+        return  Response(serializer.data)
+
+    def post(self,request, format=None):
+        serializer = self.serializer_class(Task.objects.all(), many=True)
