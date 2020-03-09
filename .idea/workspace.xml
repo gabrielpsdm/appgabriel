@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea3e170c-94e5-4f9f-96ec-ccbd5a8cde28" name="Default Changelist" comment="backend pronto">
-      <change afterPath="$PROJECT_DIR$/api/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasks/serializer.py" afterDir="false" />
+    <list default="true" id="ea3e170c-94e5-4f9f-96ec-ccbd5a8cde28" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasks/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tasks/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +84,8 @@
       <updated>1583343733179</updated>
       <workItem from="1583343734361" duration="9004000" />
       <workItem from="1583430675828" duration="6230000" />
-      <workItem from="1583517259083" duration="8958000" />
+      <workItem from="1583517259083" duration="9386000" />
+      <workItem from="1583773736255" duration="6894000" />
     </task>
     <task id="LOCAL-00001" summary="backend pronto">
       <created>1583440775939</created>
@@ -99,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583440775939</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="backend pronto&#10;integrando o django rest framework">
+      <created>1583526592115</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583526592115</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,17 +109,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="backend pronto" />
-    <option name="LAST_COMMIT_MESSAGE" value="backend pronto" />
+    <MESSAGE value="backend pronto&#10;integrando o django rest framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="backend pronto&#10;integrando o django rest framework" />
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583523056522">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1583523056522" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1583440851629">
+    <state x="372" y="0" key="CommitChangelistDialog2" timestamp="1583526589249">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583440851629" />
+    <state x="372" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583526589249" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1583352242160">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -126,18 +129,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="505" y="279" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1583352519829" />
-    <state x="553" y="256" width="260" height="274" key="Github.ShareDialog" timestamp="1583352331373">
+    <state x="553" y="256" width="260" height="274" key="Github.ShareDialog" timestamp="1583526752408">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="553" y="256" width="260" height="274" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1583352331373" />
+    <state x="553" y="256" width="260" height="274" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1583526752408" />
     <state x="181" y="12" key="SettingsEditor" timestamp="1583435855796">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="181" y="12" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583435855796" />
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1583517314525">
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1583773777098">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583517314525" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583773777098" />
     <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583440836523">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
