@@ -84,7 +84,7 @@
       <workItem from="1583343734361" duration="9004000" />
       <workItem from="1583430675828" duration="6230000" />
       <workItem from="1583517259083" duration="9386000" />
-      <workItem from="1583773736255" duration="7206000" />
+      <workItem from="1583773736255" duration="7869000" />
     </task>
     <task id="LOCAL-00001" summary="backend pronto">
       <created>1583440775939</created>
@@ -107,7 +107,21 @@
       <option name="project" value="LOCAL" />
       <updated>1583784893407</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="backend pronto&#10;django rest framework pronto&#10;integrar o React">
+      <created>1583785205430</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583785205430</updated>
+    </task>
+    <task id="LOCAL-00005" summary="backend pronto&#10;django rest framework pronto&#10;integrar o React">
+      <created>1583785427717</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1583785427717</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,10 +138,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1583523056522" />
-    <state x="372" y="0" key="CommitChangelistDialog2" timestamp="1583785204496">
+    <state x="372" y="0" key="CommitChangelistDialog2" timestamp="1583785345381">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="372" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583785204496" />
+    <state x="372" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583785345381" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1583352242160">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -144,10 +158,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="181" y="12" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583435855796" />
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1583773777098">
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1583858409475">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583773777098" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583858409475" />
     <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583785191955">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
