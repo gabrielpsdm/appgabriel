@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea3e170c-94e5-4f9f-96ec-ccbd5a8cde28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/templates/frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/templates/frontend/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +89,7 @@
       <workItem from="1583773736255" duration="7869000" />
       <workItem from="1583858407318" duration="2036000" />
       <workItem from="1583861154536" duration="5909000" />
-      <workItem from="1583944875410" duration="2437000" />
+      <workItem from="1583944875410" duration="6600000" />
     </task>
     <task id="LOCAL-00001" summary="backend pronto">
       <created>1583440775939</created>
@@ -144,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583871088610</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="backend pronto&#10;django rest framework pronto&#10;integrar o React">
+      <created>1583948877300</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1583948877300</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,10 +164,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1583523056522" />
-    <state x="372" y="0" key="CommitChangelistDialog2" timestamp="1583871086406">
+    <state x="372" y="0" key="CommitChangelistDialog2" timestamp="1583948874514">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="372" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583871086406" />
+    <state x="372" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583948874514" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1583352242160">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -181,10 +184,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="181" y="12" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583435855796" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1583871096912">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1583948883285">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583871096912" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583948883285" />
     <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1583944878760">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
